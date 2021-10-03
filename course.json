@@ -4,27 +4,27 @@
         "name": "Arts Lesson",
         "detail": "Arts Lessons are visual and performing art lessons from kindergarten through high school. Many of the lessons can be integrated into core subjects such as Math, Language Arts, Science, or Social Studies",
         "time": "9:00am - 10am",
-        "img": "url"
+        "img": "https://ohidurgclan.github.io/course9api/30161.jpg"
     },
     {
         "key": "30162",
         "name": "Language Lesson",
         "detail": "Language Lessons strikes a balance between these two visual and thematic approaches. The film begins with a surprise has been secretly hired by a man named Will to teach Spanish to his husband Adam.",
         "time": "11:00am - 12:00pm",
-        "img": "url"
+        "img": "https://ohidurgclan.github.io/course9api/30162.jpg"
     },
     {
         "key": "30163",
         "name": "Music Lesson",
         "detail": "Music lessons are a type of formal instruction in playing a musical instrument or singing. A student taking music lessons meets a music teacher for one-to-one training sessions ranging  one hour in length over a period of weeks or years.",
         "time": "3:00pm - 4:00pm",
-        "img": "url"
+        "img": "https://ohidurgclan.github.io/course9api/30163.jpg"
     },
     {
         "key": "30164",
         "name": "Experiment Lesson",
         "detail": "Students do several activities to prepare for working in a chemistry lab including brainstorming with their peers, watching a video, doing a lab equipment activity, and taking a safety quiz.",
         "time": "4:00pm - 5:00pm",
-        "img": "url"
+        "img": "https://ohidurgclan.github.io/course9api/30164.jpg"
     }
 ]

@@ -40,5 +40,19 @@
         "detail": "Learners will review vocabulary for sports and extend it with the clothes and equipment needed to play various sports, then make a poster about a sport.",
         "time": "4:00pm - 6:00pm",
         "img": "https://ohidurgclan.github.io/course9api/30166.jpg"
+    },
+    {
+        "key": "30167",
+        "name": "History Lesson",
+        "detail": "learning from history can mean different things.so that their experience with disease comes to shape the strategies they choose and their sense of the possible when confronted with new ones.",
+        "time": "2:00pm - 3:00pm",
+        "img": "https://ohidurgclan.github.io/course9api/30167.jpg"
+    },
+    {
+        "key": "30168",
+        "name": "Social Lesson",
+        "detail": "Social studies can also be referred to as social sciences. It’s a field which deals with human behavior, relationships, resources, and institutions.",
+        "time": "1:00pm - 2:00pm",
+        "img": "https://ohidurgclan.github.io/course9api/30168.jpg"
     }
 ]

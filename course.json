@@ -26,5 +26,19 @@
         "detail": "Students do several activities to prepare for working in a chemistry lab including brainstorming with their peers, watching a video, doing a lab equipment activity, and taking a safety quiz.",
         "time": "4:00pm - 5:00pm",
         "img": "https://ohidurgclan.github.io/course9api/30164.jpg"
+    },
+    {
+        "key": "30165",
+        "name": "Study Lesson",
+        "detail": "Lesson Study is a professional development programme that involves teachers working in small groups to plan lessons that address a shared learning goal for pupils.",
+        "time": "11:00am - 2:00pm",
+        "img": "https://ohidurgclan.github.io/course9api/30165.jpg"
+    },
+    {
+        "key": "30166",
+        "name": "Sports Lesson",
+        "detail": "Learners will review vocabulary for sports and extend it with the clothes and equipment needed to play various sports, then make a poster about a sport.",
+        "time": "4:00pm - 6:00pm",
+        "img": "https://ohidurgclan.github.io/course9api/30166.jpg"
     }
 ]

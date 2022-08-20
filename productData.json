@@ -3,18 +3,21 @@
     "id": "201",
     "name": "Asus Vivobook X515MA",
     "price": 35500,
-    "quantity": 20
+    "quantity": 20,
+    "newQuantity" : 20
   },
   {
     "id": "202",
     "name": "Dell E1916HV 18.5 Inch",
     "price": 9300,
-    "quantity": 35
+    "quantity": 35,
+    "newQuantity" : 35
   },
   {
     "id": "203",
     "name": "Canon Eos 4000D 18MP",
     "price": 36500,
-    "quantity": 72
+    "quantity": 72,
+    "newQuantity" : 72
   }
 ]
